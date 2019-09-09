@@ -1,6 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        release {
+            storeFile file("G:\\Android\\AndroidProjects\\YuluVenues\\yulu.jks")
+            storePassword "yulu12345"
+            keyAlias "key0"
+            keyPassword "yulu12345"
+        }
+    }
+
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.deeptimay.yuluvenues"
