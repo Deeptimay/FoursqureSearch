@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yulu Venues</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyC21-lAtr-Oc5j2428UKoX-cwNbIKM4sXo</string>
+    <string name="foursquare_client_id">PQHYHYST4I55MABEQMIBC3VEQBSYGZ2UK5OAPNCWEMQ4GSJ1</string>
+    <string name="foursquare_client_secret">KGU0EVRX2IP21JUTKA2GYEKYDUJXN0BYXE5B3FVPFZ5JAFE1</string>
+</resources>
